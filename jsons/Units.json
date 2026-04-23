@@ -8,10 +8,6 @@
     "strength": 45,
     "range": 1,
     "cost": 400,
-    "requiredTech": "Ballistics",
-    "requiredResource": "Uranium",
     "promotions": [
-      ,
       "Great General"
-    
     ]
