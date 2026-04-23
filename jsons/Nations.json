@@ -2,7 +2,7 @@
 	{
 		"name": "ダイカン帝国",
 		"leaderName": "ダイカン",
-		"adjective": ["alien"],
+		"adjective": ["帝国"],
 		"startBias": ["Snow"],
 		"preferredVictoryType": "Scientific",
 		"startIntroPart1": "ユリアちゃん可愛い!",
@@ -23,7 +23,7 @@
 	{
 		"name": "ガンガゼ共和国",
 		"leaderName": "ガンガゼ",
-		"adjective": ["neon"],
+		"adjective": ["共和国"],
 		"startBias": ["Desert"],
 		"preferredVictoryType": "Cultural",
 		"startIntroPart1": "Welcome to the future.",
@@ -41,7 +41,7 @@
 	{
 		"name": "リー・ダイシヤ帝国",
 		"leaderName": "ダイ皇帝",
-		"adjective": ["abyssal"],
+		"adjective": ["帝国"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Diplomatic",
 		"startIntroPart1": "From the crushing depths, we rise.",
