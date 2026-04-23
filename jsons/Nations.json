@@ -2,11 +2,10 @@
 	{
 		"name": "ダイカン帝国",
 		"leaderName": "ダイカン",
-		"adjective": ["帝国"],
+		"adjective": ["日印"],
 		"startBias": ["Snow"],
 		"preferredVictoryType": "Scientific",
 		"startIntroPart1": "ユリアちゃん可愛い!",
-		"startIntroPart2": "インドネシアの血を引く我々に勝利あれ!",
 		"declaringWar": "おじゃな！",
 		"attacked": "は？",
 		"defeated": "最期のおじゃな…",
