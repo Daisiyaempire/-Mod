@@ -1,0 +1,21 @@
+[
+  {
+    "name": "リーダーの威厳！",
+    "unitType": "Civilian",
+    "uniqueTo": "ダイカン王国",
+    "replaces": "Great General",
+    "movement": 4,
+    "uniques": [
+      "Can construct [Citadel] improvements <by consuming the unit>",
+      "Give [%s]% Strength bonus to [Military] units within [2] tiles",
+      "Great Person - [War]",
+      "Unbuildable",
+      "Religious Unit",
+      "May teleport to any city naturally owned by the same civilization",
+      "Can only be damaged by [City] units",
+      "Can only be damaged by [Melee] units"
+    ],
+    "displayName": "戦術指揮官",
+    "description": "従来の将軍に代わる新しい指揮官ユニットです。移動力が1高く、周囲の部隊を鼓舞します。"
+  }
+]
