@@ -5,7 +5,7 @@
     "uniqueTo": "ダイカン王国",
     "replaces": "Great General",
     "movement": 2,
-    "strength": 90,
+    "strength": 45,
     "rangedStrength": 36,
     "range": 2,
     "cost": 500,
