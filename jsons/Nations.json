@@ -171,5 +171,21 @@
 		"innerColor": [175,238,238],
 		"unique": "VIKINGS_BONUS",
 		"cities": ["Shipwreck", "Fog Harbor", "Ghost Isle", "Black Tide", "Spectral Bay"]
-	}
-]
+	},
+	{
+		"name": "はる共和国",
+		"leaderName": "はる首相",
+		"adjective": ["spectral"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		"startIntroPart1": "ユリアちゃん可愛い!",
+		"declaringWar": "Board their ships! Spare no one!",
+		"attacked": "You're fighting shadows, matey!",
+		"defeated": "Back to the Locker with us...",
+		"introduction": "You look like you've seen a ghost.",
+		"neutralHello": "Got any rum? No? Pity.",
+		"outerColor": [47,79,79],
+		"innerColor": [175,238,238],
+		"unique": "VIKINGS_BONUS",
+		"cities": ["Shipwreck", "Fog Harbor", "Ghost Isle", "Black Tide", "Spectral Bay"]
+	},
