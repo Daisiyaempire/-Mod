@@ -163,8 +163,8 @@
 		"cities": ["Shipwreck", "Fog Harbor", "Ghost Isle", "Black Tide", "Spectral Bay"]
 	},
 	{
-		"name": "投げ銭連邦",
-		"leaderName": "スパチャ王",
+		"name": "まさか連邦",
+		"leaderName": "まさか王",
 		"adjective": ["monetary"],
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Diplomatic",
@@ -179,8 +179,8 @@
 		"cities": ["Stream Hub", "Donation Box", "Super Chat", "Membership", "Archive"]
 	},
 	{
-		"name": "ニコニコ合衆国",
-		"leaderName": "百科総督",
+		"name": "調共和国",
+		"leaderName": "調首相",
 		"adjective": ["commented"],
 		"startBias": ["Grassland"],
 		"preferredVictoryType": "Cultural",
@@ -195,8 +195,8 @@
 		"cities": ["Tag Land", "Bilibili", "Douga", "Ranking", "Live Stage"]
 	},
 	{
-		"name": "炎上帝国",
-		"leaderName": "アンチ将軍",
+		"name": "とっとー王国",
+		"leaderName": "とっとー王子",
 		"adjective": ["toxic"],
 		"startBias": ["Desert"],
 		"preferredVictoryType": "Domination",
@@ -211,8 +211,8 @@
 		"cities": ["Flame Post", "Chaos", "Exposure", "Ban Hammer", "Shadow Land"]
 	},
 	{
-		"name": "マッスル共和国",
-		"leaderName": "プロテイン長官",
+		"name": "せつでん王国",
+		"leaderName": "せつでん王子",
 		"adjective": ["protein"],
 		"startBias": ["Hills"],
 		"preferredVictoryType": "Domination",
