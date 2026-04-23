@@ -1,0 +1,39 @@
+[
+  {
+    "name": "語学学校",
+    "replaces": "University",
+    "uniqueTo": "ダイカン王国",
+    "cost": 150,
+    "maintenance": 2,
+    "requiredTech": "Education",
+    "requiredBuilding": "Library",
+    "specialist": "Scientist",
+    "slots": 2,
+    "uniques": [
+      "[+33]% [Science] in this city",
+      "[+2] [Science] from [Jungle] tiles [in this city]",
+      "[+1] [Culture] from [Strategic Resource] tiles [in this city]",
+      "Provides a [Great Scientist] at [%s]% faster rate"
+    ],
+    "displayName": "藩校",
+    "description": "大学に代わる日本のユニーク建造物。科学力だけでなく、領内の資源から文化力も生み出し、偉大な科学者の誕生を早めます。"
+  },
+  {
+    "name": "秘密基地",
+    "replaces": "Military Base",
+    "uniqueTo": "ダイカン王国",
+    "cost": 600,
+    "maintenance": 4,
+    "requiredTech": "Electronics",
+    "requiredBuilding": "Medical Lab",
+    "uniques": [
+      "[+25] City Strength",
+      "[+125] City Health",
+      "[%s]% Strength bonus vs [Air] units <in this city>",
+      "[+2] [Science] from [Military] units <in this city>",
+      "Heals [Military] units in the city and adjacent tiles by [+10] HP"
+    ],
+    "displayName": "統合防衛システム",
+    "description": "軍事基地に代わる最新の防衛施設。都市の防御力を飛躍的に高めるだけでなく、駐留する部隊の修復や航空機への対抗手段も備えています。"
+  }
+]
