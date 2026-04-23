@@ -2,7 +2,7 @@
 	{
 		"name": "リーダーの威厳！",
 		"unitType": "Ranged",
-		"uniqueTo": "ダイカン帝国",
+		"uniqueTo": "ダイカン王国",
 		"replaces": "Machine Gun",
 		"movement": 2,
 		"strength": 90,
