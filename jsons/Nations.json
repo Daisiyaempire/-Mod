@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Daisiya Empire",
+    "adjective": ["Daisiyaの"],
+    "startBias": ["Grassland"],
+    "cities": ["Daisiya Capital", "Daisiya East", "Daisiya West"],
+    "uniques": ["Provides +1 Production"],
+    "color": [255, 215, 0]
+  },
+  {
+    "name": "Second Kingdom",
+    "adjective": ["Secondの"],
+    "startBias": ["Plains"],
+    "cities": ["Second Capital", "Second North", "Second South"],
+    "uniques": ["Provides +1 Science"],
+    "color": [0, 191, 255]
+  },
+  {
+    "name": "Third Republic",
+    "adjective": ["Thirdの"],
+    "startBias": ["Forest"],
+    "cities": ["Third Capital", "Third Hill", "Third River"],
+    "uniques": ["Provides +1 Culture"],
+    "color": [50, 205, 50]
+  },
+  {
+    "name": "Fourth Union",
+    "adjective": ["Fourthの"],
+    "startBias": ["Desert"],
+    "cities": ["Fourth Capital", "Fourth Oasis", "Fourth Sand"],
+    "uniques": ["Provides +1 Gold"],
+    "color": [255, 99, 71]
+  }
+]
