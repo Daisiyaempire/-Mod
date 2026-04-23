@@ -5,7 +5,8 @@
     "startBias": ["Grassland"],
     "cities": ["Daisiya Capital", "Daisiya East", "Daisiya West"],
     "uniques": ["Provides +1 Production"],
-    "color": [255, 215, 0]
+    "color": [255, 215, 0],
+    "favoredReligion": "Taoism"
   },
   {
     "name": "Second Kingdom",
@@ -13,7 +14,8 @@
     "startBias": ["Plains"],
     "cities": ["Second Capital", "Second North", "Second South"],
     "uniques": ["Provides +1 Science"],
-    "color": [0, 191, 255]
+    "color": [255, 0, 0],
+    "favoredReligion": "Christianity"
   },
   {
     "name": "Third Republic",
@@ -21,7 +23,8 @@
     "startBias": ["Forest"],
     "cities": ["Third Capital", "Third Hill", "Third River"],
     "uniques": ["Provides +1 Culture"],
-    "color": [50, 205, 50]
+    "color": [0, 255, 0],
+    "favoredReligion": "Buddhism"
   },
   {
     "name": "Fourth Union",
@@ -29,6 +32,7 @@
     "startBias": ["Desert"],
     "cities": ["Fourth Capital", "Fourth Oasis", "Fourth Sand"],
     "uniques": ["Provides +1 Gold"],
-    "color": [255, 99, 71]
+    "color": [0, 0, 255],
+    "favoredReligion": "Islam"
   }
 ]
